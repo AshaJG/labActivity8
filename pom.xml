@@ -74,5 +74,14 @@
             <version>1.7.28</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/at.favre.lib/bcrypt -->
+        <!-- https://mvnrepository.com/artifact/com.github.t3hnar/scala-bcrypt -->
+        <dependency>
+            <groupId>com.github.t3hnar</groupId>
+            <artifactId>scala-bcrypt_2.12</artifactId>
+            <version>4.1</version>
+        </dependency>
+
+
     </dependencies>
 </project>
